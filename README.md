@@ -34,8 +34,8 @@ Ready to boost your online presence? Let's discuss how I can help your business 
 
 - **Name**: Rajdev Yadav
 - **Services**: Web Development, Google Business Profiles, Google Maps, Social Media
-- **Email**: [Your Email Here]
-- **Phone**: [Your Phone Number Here]
+- **Email**: rajdevyadavofficial@gmail.com
+- **Phone**: +91 9369005901
 - **Website**: [Your Website Here]
 
 *Feel free to reach out for a consultation or quote!*
