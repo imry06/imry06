@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=imry06%20&fontSize=90)
+
 ### 📈 GitHub Activity Graph
 
 ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=imry06&theme=react-dark)
